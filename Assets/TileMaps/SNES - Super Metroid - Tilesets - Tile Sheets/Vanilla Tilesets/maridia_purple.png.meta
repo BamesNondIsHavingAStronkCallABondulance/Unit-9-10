@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 6829c502ffb395942823d50556abab64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5820082650662768110
+    second: maridia_purple_0
+  - first:
+      213: -309467632314795415
+    second: maridia_purple_1
+  - first:
+      213: 5609488339469551965
+    second: maridia_purple_2
+  - first:
+      213: 2955648324649048293
+    second: maridia_purple_3
+  - first:
+      213: -1249685444170849201
+    second: maridia_purple_4
+  - first:
+      213: 8277691246929989617
+    second: maridia_purple_5
+  - first:
+      213: -8767600664801689614
+    second: maridia_purple_6
+  - first:
+      213: -2992023562653290187
+    second: maridia_purple_7
+  - first:
+      213: 7691268348244879821
+    second: maridia_purple_8
+  - first:
+      213: 6267622195487757072
+    second: maridia_purple_9
+  - first:
+      213: 7976943888417783788
+    second: maridia_purple_10
+  - first:
+      213: -2276572775595009798
+    second: maridia_purple_11
+  - first:
+      213: 2256622090209222308
+    second: maridia_purple_12
+  - first:
+      213: -715768114898777530
+    second: maridia_purple_13
+  - first:
+      213: 8006010513664109735
+    second: maridia_purple_14
+  - first:
+      213: -3290510944481874593
+    second: maridia_purple_15
+  - first:
+      213: 7453214166404741704
+    second: maridia_purple_16
+  - first:
+      213: -5801398782245162683
+    second: maridia_purple_17
+  - first:
+      213: 4928356975322178147
+    second: maridia_purple_18
+  - first:
+      213: 2827930459661198324
+    second: maridia_purple_19
+  - first:
+      213: -7741183578962894272
+    second: maridia_purple_20
+  - first:
+      213: 1438746044442873682
+    second: maridia_purple_21
+  - first:
+      213: 729283345140362778
+    second: maridia_purple_22
+  - first:
+      213: -7852991798366640473
+    second: maridia_purple_23
+  - first:
+      213: 3132482680040854038
+    second: maridia_purple_24
+  - first:
+      213: 1103625605528112374
+    second: maridia_purple_25
+  - first:
+      213: 5754040546566839885
+    second: maridia_purple_26
+  - first:
+      213: -7650801790118713569
+    second: maridia_purple_27
+  - first:
+      213: -552282098706494085
+    second: maridia_purple_28
+  - first:
+      213: 1319146698953018175
+    second: maridia_purple_29
+  - first:
+      213: -1850833479042388704
+    second: maridia_purple_30
+  - first:
+      213: -8318117610786508778
+    second: maridia_purple_31
+  - first:
+      213: -1042399849562628205
+    second: maridia_purple_32
+  - first:
+      213: 1545617854258788274
+    second: maridia_purple_33
+  - first:
+      213: -6033216383343513468
+    second: maridia_purple_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maridia_purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 512
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed0b2ca55615c050800000000000000
+      internalID: 5820082650662768110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a356af3dc84bbf0800000000000000
+      internalID: -309467632314795415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5947c5ace7e8dd40800000000000000
+      internalID: 5609488339469551965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e85fa7dd72940920800000000000000
+      internalID: 2955648324649048293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44683ba5b938aee0800000000000000
+      internalID: -1249685444170849201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff4f9df45440e270800000000000000
+      internalID: 8277691246929989617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff340ae5a9335680800000000000000
+      internalID: -8767600664801689614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531b3741c623a76d0800000000000000
+      internalID: -2992023562653290187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9675900dfdcba60800000000000000
+      internalID: 7691268348244879821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d664fd211bf650800000000000000
+      internalID: 6267622195487757072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 143
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef7d5ee33cc3be60800000000000000
+      internalID: 7976943888417783788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af895555f1df760e0800000000000000
+      internalID: -2276572775595009798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae583fb5d1215f10800000000000000
+      internalID: 2256622090209222308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a48e911b41116f0800000000000000
+      internalID: -715768114898777530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acedfef4201b1f60800000000000000
+      internalID: 8006010513664109735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d6f98dab1c552d0800000000000000
+      internalID: -3290510944481874593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 135
+        width: 306
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ab677abc22f6760800000000000000
+      internalID: 7453214166404741704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541b4ef6b8a4d7fa0800000000000000
+      internalID: -5801398782245162683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362a568be8a056440800000000000000
+      internalID: 4928356975322178147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ec9125c3de3720800000000000000
+      internalID: 2827930459661198324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04264daac8ac19490800000000000000
+      internalID: -7741183578962894272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f040597e377f310800000000000000
+      internalID: 1438746044442873682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e23b7a65fee1a00800000000000000
+      internalID: 729283345140362778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6ec4af091940390800000000000000
+      internalID: -7852991798366640473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61216e0a660d87b20800000000000000
+      internalID: 3132482680040854038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc478614add05f00800000000000000
+      internalID: 1103625605528112374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e9f4114657adf40800000000000000
+      internalID: 5754040546566839885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172d0dbe44e2d590800000000000000
+      internalID: -7650801790118713569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dcaca7b56e558f0800000000000000
+      internalID: -552282098706494085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b49bdfeec8e4210800000000000000
+      internalID: 1319146698953018175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d2747c1c48056e0800000000000000
+      internalID: -1850833479042388704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6103621ba1c109c80800000000000000
+      internalID: -8318117610786508778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f16e41cd6a881f0800000000000000
+      internalID: -1042399849562628205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_33
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7b899df33237510800000000000000
+      internalID: 1545617854258788274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maridia_purple_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4803eb92aa5b54ca0800000000000000
+      internalID: -6033216383343513468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maridia_purple_0: 5820082650662768110
+      maridia_purple_1: -309467632314795415
+      maridia_purple_10: 7976943888417783788
+      maridia_purple_11: -2276572775595009798
+      maridia_purple_12: 2256622090209222308
+      maridia_purple_13: -715768114898777530
+      maridia_purple_14: 8006010513664109735
+      maridia_purple_15: -3290510944481874593
+      maridia_purple_16: 7453214166404741704
+      maridia_purple_17: -5801398782245162683
+      maridia_purple_18: 4928356975322178147
+      maridia_purple_19: 2827930459661198324
+      maridia_purple_2: 5609488339469551965
+      maridia_purple_20: -7741183578962894272
+      maridia_purple_21: 1438746044442873682
+      maridia_purple_22: 729283345140362778
+      maridia_purple_23: -7852991798366640473
+      maridia_purple_24: 3132482680040854038
+      maridia_purple_25: 1103625605528112374
+      maridia_purple_26: 5754040546566839885
+      maridia_purple_27: -7650801790118713569
+      maridia_purple_28: -552282098706494085
+      maridia_purple_29: 1319146698953018175
+      maridia_purple_3: 2955648324649048293
+      maridia_purple_30: -1850833479042388704
+      maridia_purple_31: -8318117610786508778
+      maridia_purple_32: -1042399849562628205
+      maridia_purple_33: 1545617854258788274
+      maridia_purple_34: -6033216383343513468
+      maridia_purple_4: -1249685444170849201
+      maridia_purple_5: 8277691246929989617
+      maridia_purple_6: -8767600664801689614
+      maridia_purple_7: -2992023562653290187
+      maridia_purple_8: 7691268348244879821
+      maridia_purple_9: 6267622195487757072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
