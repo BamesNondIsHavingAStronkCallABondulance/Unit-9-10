@@ -15,6 +15,9 @@ public class PlayerScript : MonoBehaviour
     public InputAction interactAction;
     public InputAction resetAction;
 
+    public float walkSpeed = 3f, runSpeed = 6f;
+    public float currentMoveSpeed;
+
 
 
     private void Start()
@@ -24,7 +27,7 @@ public class PlayerScript : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
-        sm.Init(sm.idleState); //this will be the first state to run 
+        sm.Init(sm.runState); //this will be the first state to run 
 
         //initialise the actions
         moveAction = InputSystem.actions.FindAction("Move");
@@ -33,7 +36,7 @@ public class PlayerScript : MonoBehaviour
         jumpAction = InputSystem.actions.FindAction("Jump");
         resetAction = InputSystem.actions.FindAction("Next");
 
-
+        currentMoveSpeed = walkSpeed;
     }
 
     private void Update()

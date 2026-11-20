@@ -6,4 +6,15 @@ public class IdleState : State
     {
 
     }
+
+
+    public override void Update()
+    {
+        if (player.moveAction.IsPressed())
+        {
+            sm.ChangeState(sm.runState);
+        }
+    }
+
+
 }
