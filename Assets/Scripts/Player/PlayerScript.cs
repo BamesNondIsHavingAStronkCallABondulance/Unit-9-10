@@ -9,13 +9,14 @@ public class PlayerScript : MonoBehaviour
     PlayerStateMachine sm;
 
     //define the actions
-    public InputAction moveAction;
     //public InputAction crouchAction;
     public InputAction jumpAction;
     public InputAction interactAction;
     public InputAction resetAction;
 
-    public float walkSpeed = 3f, runSpeed = 6f;
+    public InputActionReference moveAction;
+
+    public float walkSpeed = 6f;
     public float currentMoveSpeed;
 
 
@@ -30,7 +31,7 @@ public class PlayerScript : MonoBehaviour
         sm.Init(sm.runState); //this will be the first state to run 
 
         //initialise the actions
-        moveAction = InputSystem.actions.FindAction("Move");
+        //moveAction = InputSystem.actions.FindAction("Move");
         //crouchAction = InputSystem.actions.FindAction("Crouch");
         interactAction = InputSystem.actions.FindAction("Interact");
         jumpAction = InputSystem.actions.FindAction("Jump");

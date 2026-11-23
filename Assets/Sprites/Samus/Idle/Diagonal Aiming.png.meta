@@ -138,12 +138,12 @@ TextureImporter:
       name: Diagonal Aiming_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 383
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10
+        y: 384
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,11 +161,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 255
-        width: 33
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 256
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -182,12 +182,12 @@ TextureImporter:
       name: Diagonal Aiming_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 127
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10
+        y: 128
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: Diagonal Aiming_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 33
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 15e32512b9b4d674d9bb490b719e6c02
     internalID: 0
     vertices: []
     indices: 
@@ -234,7 +234,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Diagonal Aiming_0: 3500492452125382107
       Diagonal Aiming_1: 7486408022219172578

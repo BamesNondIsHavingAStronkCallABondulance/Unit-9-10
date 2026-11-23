@@ -158,10 +158,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 19
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,12 +178,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_1
       rect:
         serializedVersion: 2
-        x: 91
+        x: 92
         y: 0
-        width: 25
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,12 +200,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_2
       rect:
         serializedVersion: 2
-        x: 184
-        y: 0
-        width: 31
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 185
+        y: 1
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -222,12 +222,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_3
       rect:
         serializedVersion: 2
-        x: 278
-        y: 1
-        width: 37
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 279
+        y: 2
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -244,12 +244,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_4
       rect:
         serializedVersion: 2
-        x: 375
-        y: 0
-        width: 34
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 376
+        y: 1
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -266,12 +266,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_5
       rect:
         serializedVersion: 2
-        x: 478
+        x: 479
         y: 0
-        width: 21
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -288,12 +288,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_6
       rect:
         serializedVersion: 2
-        x: 572
+        x: 573
         y: 0
-        width: 24
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 22
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -310,12 +310,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_7
       rect:
         serializedVersion: 2
-        x: 664
-        y: 0
-        width: 31
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 665
+        y: 1
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -332,12 +332,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_8
       rect:
         serializedVersion: 2
-        x: 757
-        y: 1
-        width: 37
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 758
+        y: 2
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -354,12 +354,12 @@ TextureImporter:
       name: Samus-RunRight-NoAim_9
       rect:
         serializedVersion: 2
-        x: 854
-        y: 0
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 855
+        y: 1
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -376,7 +376,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 80bd3d2730610e0489e18e87665af084
     internalID: 0
     vertices: []
     indices: 
@@ -384,7 +384,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Samus-RunRight-NoAim_0: 8348733402180690562
       Samus-RunRight-NoAim_1: -2855684863775892748

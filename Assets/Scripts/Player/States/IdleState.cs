@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class IdleState : State
 {
-    public IdleState(PlayerScript enemy, PlayerStateMachine sm) : base(enemy, sm)
+    public IdleState(PlayerScript player, PlayerStateMachine sm) : base(player, sm)
     {
 
     }
@@ -10,11 +10,20 @@ public class IdleState : State
 
     public override void Update()
     {
-        if (player.moveAction.IsPressed())
+        Debug.Log("Idle");
+
+        player.animator.Play("Idle");
+
+        //HandleAnim();
+
+        if (player.moveAction.action.IsPressed())
         {
             sm.ChangeState(sm.runState);
         }
     }
 
-
+    void HandleAnim()
+    {
+        
+    }
 }

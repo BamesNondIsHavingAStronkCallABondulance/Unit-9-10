@@ -129,45 +129,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Samus-UpLeft-Aim_0
+      name: Samus-Aim-UpLeft_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 33
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e014a52d9368f0180800000000000000
-      internalID: -9146944735265799922
+      spriteID: 26e7a827204b7cb439050e87f4a9da05
+      internalID: 2054334528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samus-UpLeft-Aim_1
+      name: Samus-Aim-UpLeft_1
       rect:
         serializedVersion: 2
-        x: 107
+        x: 108
         y: 0
-        width: 21
+        width: 20
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e7f8ef5a079dfa1f0800000000000000
-      internalID: -1031366711800066178
+      spriteID: 5ed6fc9b35bea584794e1cd0b91ae048
+      internalID: -523136350
       vertices: []
       indices: 
       edges: []
@@ -176,7 +176,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c7c3a54873e738a46a1f582b952c56f8
     internalID: 0
     vertices: []
     indices: 
@@ -184,10 +184,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Samus-UpLeft-Aim_0: -9146944735265799922
-      Samus-UpLeft-Aim_1: -1031366711800066178
+      Samus-Aim-UpLeft_0: 2054334528
+      Samus-Aim-UpLeft_1: -523136350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

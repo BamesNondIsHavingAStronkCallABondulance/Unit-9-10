@@ -2,32 +2,37 @@ using UnityEngine;
 
 public class RunState : State
 {
-    public RunState(PlayerScript enemy, PlayerStateMachine sm) : base(enemy, sm)
+    public RunState(PlayerScript player, PlayerStateMachine sm) : base(player, sm)
     {
 
     }
+    Vector2 moveVector;
 
     public override void Update()
     {
         Debug.Log("running");
 
-        Vector2 moveVector = player.moveAction.ReadValue<Vector2>();
+        moveVector = player.moveAction.action.ReadValue<Vector2>();
+        player.rb.linearVelocityX = moveVector.x * player.currentMoveSpeed;
 
-        if (player.moveAction.IsPressed())
+        if (moveVector.x > 0)
         {
-            HandleMovement(moveVector);
+            player.animator.Play("RunRight-NoAim");
         }
+        else if (moveVector.x < 0)
+        {
+            player.animator.Play("RunLeft-NoAim");
+        }
+
+        HandleStates();
+
     }
 
-    private void HandleMovement(Vector2 moveVector)
+    void HandleStates()
     {
-        Vector2 playerMovement = new Vector2();
-
-        Vector2 newSpeed = new Vector2(moveVector.y * player.currentMoveSpeed, moveVector.x * player.currentMoveSpeed);
-        playerMovement.x = newSpeed.x;
-
-        playerMovement = player.moveAction.ReadValue<Vector2>() * player.currentMoveSpeed;
-
-        player.rb.linearVelocityX = playerMovement.x;
+        if(moveVector.x < 0.01 && moveVector.x > -0.01)
+        {
+            sm.ChangeState(sm.idleState);
+        }
     }
 }
