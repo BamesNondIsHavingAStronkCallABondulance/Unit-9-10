@@ -6,6 +6,8 @@ public class PlayerScript : MonoBehaviour
     public SpriteRenderer sr;
     public Rigidbody2D rb;
     public Animator animator;
+    public AimScript aimScript;
+
     PlayerStateMachine sm;
 
     //define the actions
