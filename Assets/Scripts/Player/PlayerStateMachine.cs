@@ -9,7 +9,7 @@ public class PlayerStateMachine
 
     //declare all states here
     public IdleState idleState;
-    //public JumpState jumpState;
+    public JumpState jumpState;
     public RunState runState;
     //public HurtState hurtState;
     //public DeathState deathState;
@@ -20,7 +20,7 @@ public class PlayerStateMachine
     {
         //initialise all states here
         idleState = new IdleState(player, this);
-        //jumpState = new JumpState(player, this);
+        jumpState = new JumpState(player, this);
         runState = new RunState(player, this);
         //hurtState = new HurtState(player, this);
         //deathState = new DeathState(player, this);

@@ -10,8 +10,6 @@ public class IdleState : State
 
     public override void Update()
     {
-        Debug.Log("Idle");
-
         player.animator.Play("Idle");
 
         //HandleAnim();

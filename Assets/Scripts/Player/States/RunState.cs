@@ -10,8 +10,6 @@ public class RunState : State
 
     public override void Update()
     {
-        Debug.Log("running");
-
         moveVector = player.moveAction.action.ReadValue<Vector2>();
         player.rb.linearVelocityX = moveVector.x * player.currentMoveSpeed;
 
@@ -33,6 +31,10 @@ public class RunState : State
         if(moveVector.x < 0.01 && moveVector.x > -0.01)
         {
             sm.ChangeState(sm.idleState);
+        }
+        else if(player.jumpAction.IsPressed())
+        {
+            sm.ChangeState(sm.jumpState);
         }
     }
 }
